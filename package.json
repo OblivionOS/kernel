@@ -1,0 +1,25 @@
+{
+  "name": "kernel",
+  "version": "1.0.0",
+  "description": "The Official OblivionOS Kernel Environment Project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OblivionOS/kernel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OblivionOS/kernel/issues"
+  },
+  "homepage": "https://github.com/OblivionOS/kernel#readme"
+}
